@@ -1,0 +1,67 @@
+body{
+font-size: 16px;
+background-color: #61122f;
+color: #fff;
+font-family: 'Oxygen', sans-serif;
+
+}
+
+#nav-header{
+background-color: #f16eec;
+	border-radius: 0;
+	border:0;
+
+}
+
+.navbar-header button.navabar-toggle ,.navbar-header .icon-bar{
+border: 1px solid #61122f;
+
+
+}
+.navbar-toggle{
+	margin-top: -50px;
+	margin-right: 40px;
+	padding: 13px 9px;
+}
+
+#home-tiles{
+
+}
+
+#chiken , #beef , #sushi{
+height: 250px;
+width: 100%;
+ margin-bottom: 15px;
+ margin-top: 30px;
+  position: relative;
+  border: 2px solid #3F0C1F;
+  overflow: hidden;
+  background-color: #f16eec;
+border-radius: 20px;
+}
+p , h3,h2{
+	color: black;
+}
+
+h3{
+	text-align: center;
+}
+p{
+	margin: 15px;
+}
+h2{
+	text-align: center;
+	color: #fff;
+}
+a{
+	text-align: center;
+}
+hr{
+width: 100%;
+color: #111;
+
+}
+#Food h2{
+	text-align: left;
+	margin-left: 40px;
+}
